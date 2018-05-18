@@ -3,14 +3,13 @@
 #set -x
 
 # enter your mail address:
-list_mails=(sebastian.hoefener2@kit.edu johannes.heuser@kit.edu nils.schieschke@kit.edu)
-#list_mails=(sebastian.hoefener2@kit.edu)
+list_mails=(erwin.schroedinger@nobel.org)
 
 # enter your KOALA root path:
 koala_root=/work/KOALA_TEST/koala_trunk_nightly
 
 # use empty string if not needed:
-licence_server=scclic1.scc.kit.edu
+licence_server=
 
 
 # ======================================================================
