@@ -120,7 +120,6 @@ fi
 
 echo "lquick: ${lquick}"
 
-# svn checkout svn+ssh://basti@tcholx13.chemie.uni-karlsruhe.de/user/basti/WorkGen/QC/SVNROOT/koala/trunk ./koala_trunk
 
 cd ${koala_root}
 
